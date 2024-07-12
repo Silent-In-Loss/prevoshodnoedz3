@@ -1,0 +1,29 @@
+.nature{
+    width: 180px;
+    height: 150px;
+    transition: 1s;
+    border: 1px orangered solid;
+
+    &:hover{
+        transform: scale(1.2);
+        width: 230px;
+        height: 200px;
+    }
+}
+
+.homo{
+    width: 180px;
+    height: 150px;
+    transition: 1s;
+    border: 1px orangered solid;
+
+    &:hover{
+        transform: scale(1.2);
+        width: 230px;
+        height: 200px;
+    }
+}
+
+h1{
+    text-align: center;
+}
